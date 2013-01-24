@@ -4,9 +4,16 @@ Activity Log:
 
 Note to Alex Greiner:
 
-Collisions between Flux's and Kaplans patents seem mostly due to their respective claim 1's, which are ambiguous and potentially broad.
-
+1. Collisions between Flux's and Kaplans patents seem mostly due to their respective claim 1's, which are ambiguous and potentially broad.
 Kaplan's claim one can be read broadly or narrowly.  A narrow reading, where "Network" only implies network as seen by the utility leaves our claim 1 intact. 
+
+2. I understand Kaplan as indicating multiple localities, controlled from a separate control center, balanced from remote power sources.  On the other hand, Flux is about placing the control in the local system, and exchanging power between components on the local system.  Hence the discussion of the "Employer" trading power with employees.  No exchange of data or power is required across the local area boundries, though it is possible.
+
+2. Descr 100 "...2 megawatts..." indicates this is "outside the wall" power rather than "inside"
+
+2. Claims such as 
+
+
 
 Kaplan teaches a centrally controlled "top down" resource management system.  Our patent teaches a bottom out system that balances a network as a side effect of the player contracts.
 
