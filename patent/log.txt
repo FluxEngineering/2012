@@ -1,0 +1,17 @@
+Activity Log:
+
+1/24/13
+
+Note to Alex Greiner:
+
+Collisions between Flux's and Kaplans patents seem mostly due to their respective claim 1's, which are ambiguous and potentially broad.
+
+Kaplan's claim one can be read broadly or narrowly.  A narrow reading, where "Network" only implies network as seen by the utility leaves our claim 1 intact. 
+
+Kaplan teaches a centrally controlled "top down" resource management system.  Our patent teaches a bottom out system that balances a network as a side effect of the player contracts.
+
+Kaplan describes energy storage in so broad a way as to include pumped storage, which has existed since at least the 1890's (Wikipedia)
+
+Need to do:
+
+How do we separate the Claim 1's so they do not overlap?  How do we subtract out the implied prior art?
